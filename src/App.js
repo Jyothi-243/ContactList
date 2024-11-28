@@ -23,6 +23,12 @@ const initialContactsList = [
     mobileNo: 9999955555,
     isFavorite: false,
   },
+  {
+    id: uuidv4(),
+    name: 'Pavan',
+    mobileNo: 8888866666,
+    isFavorite: true,
+  },
 ]
 
 class App extends Component {
