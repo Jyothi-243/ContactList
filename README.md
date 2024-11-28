@@ -4,3 +4,6 @@
   - uuid
 - Adding New Item to the List in State
 - Updating an Item of the List in State
+
+git clone 
+npm install 
